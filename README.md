@@ -1,3 +1,3 @@
 # sample1
 Hi everyone
-this is my first demo repo
+This is my first demo repo
